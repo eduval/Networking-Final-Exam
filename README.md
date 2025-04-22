@@ -11,7 +11,7 @@ This Packet Tracer activity is a **dynamic version of the final exam** used in c
 This final exam assesses practical and theoretical skills in data communication and networking using a comprehensive lab scenario. Students are required to configure routers, switches, PCs, and servers based on detailed network requirements, including:
 
 - **Device Configuration:** Hostnames, passwords, banners, domain name, and security settings  
-- **IPv4/IPv6 Setup:** Addressing, routing (OSPFv3), DHCPv4/DHCPv6, SLAAC, and default route advertisement  
+- **IPv4/IPv6 Setup:** Addressing, routing (OSPFv2), DHCPv4/DHCPv6, SLAAC, and default route advertisement  
 - **Router Features:** OSPF with custom Router IDs, SSH access, password encryption, passive interfaces  
 - **Switch Configuration:** Port security, port negotiation, descriptions, SSH setup, and violation modes  
 - **End Devices:** PCs using DHCP, DNS setup with Google DNS, and web servers with specific IP assignments  
