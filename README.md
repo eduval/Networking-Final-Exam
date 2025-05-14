@@ -1,6 +1,6 @@
 # Packet Tracer Dynamic Final Exam (Practice Release)
 
-Welcome to the official repository for the released version of the **Networking Final Exam (Packet Tracer Wizard)**. This version is designed to help students continue practicing and reinforcing their knowledge of IPv4, IPv6, interface descriptions, and other core networking concepts.
+Welcome to the repository for the released version of the **Networking Final Exam (Packet Tracer Wizard)**. This version is designed to help students continue practicing and reinforcing their knowledge of IPv4, IPv6, interface descriptions, and other core networking concepts.
 
 ## 🧠 Purpose
 
